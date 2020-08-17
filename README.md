@@ -1,5 +1,8 @@
 # pong
 
+Building pong game with Amethyst game engine using a [tutorial](https://book.amethyst.rs/stable/pong-tutorial.html)
+
+
 ## How to run
 
 To run the game, run the following command, which defaults to the `vulkan` graphics backend:
@@ -19,3 +22,4 @@ Mac OS X users may explicitly choose `"metal"` with the following command:
 ```bash
 cargo run --no-default-features --features "metal"
 ```
+
